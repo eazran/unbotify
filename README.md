@@ -17,11 +17,25 @@ python --version
 If the version of the installed Python is displayed , proceed to the next section.
 
 Otherwise, install Python following the guide: 
+
 Linux:
 https://pimylifeup.com/installing-python-on-linux/
+
 MacOs:
-To install Python on a Linux OS, follow the following instructions:
+https://docs.python-guide.org/starting/install3/osx/
 
-## Setup Prerequisites
 
-To download the script, press the 
+## Downloading the code
+
+To download the script, press the green "clone or download" button on the top right of the github screen.
+
+![Download Button](https://github.com/eazran/unbotify/download_from_github.png)
+
+Extract the zip to a folder of your choice.
+
+## Running the code
+
+Open a terminal window and navigate to the folder in which you extracted the zip.
+
+Execute the command:
+python print_random_ten.py

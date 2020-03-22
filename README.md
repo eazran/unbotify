@@ -29,7 +29,7 @@ https://docs.python-guide.org/starting/install3/osx/
 
 To download the script, press the green "clone or download" button on the top right of the github screen.
 
-![Download Button](https://github.com/eazran/unbotify/download_from_github.png)
+![Download Button](https://github.com/eazran/unbotify/blob/master/download_from_github.png?raw=true)
 
 Extract the zip to a folder of your choice.
 
